@@ -1,1 +1,2 @@
 Se agrega Archivo de prueba desde el repositorio principal, para luego ser modificado por el colaborador
+Cambio realizado con el usuario SantiagoAlcaraz1101 de github.
